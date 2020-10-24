@@ -19,3 +19,5 @@ elemento, se determina el sector al cual pertenece. Estos se representan en subm
 Una vez elimnadas algunas celdas de manera aleatoria, con el botón "Comenzar", se habilitarán todas las celdas vacías. En caso de que una posición sea incorrecta, se remarca y se
 deshabilitan el resto de las celdas hasta la corrección de la misma.
 El boton "Validar" decide si todos los elementos del juego cumplen con las reglas de la misma.
+
+El juego debe ejecutarse dentro de la carpeta.
