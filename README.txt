@@ -1,5 +1,6 @@
 # Proyecto2-TDP
-El juego se inicializa con una matriz de enteros de 9x9, representadas cada una con una entidad gráfica. A su vez, teniendo en cuenta la posicion de la fila y la columna del elemento, se determina el sector al cual pertenece. Estos se representan en submatrices de 3x3. Particularmente, se lee el siguiente archivo:
+El juego se inicializa con una matriz de enteros de 9x9, representadas cada una con una entidad gráfica. A su vez, teniendo en cuenta la posicion de la fila y la columna del
+elemento, se determina el sector al cual pertenece. Estos se representan en submatrices de 3x3. Particularmente, se lee el siguiente archivo:
     
    -------------------------               --------------------------------
    | 5,3,4 | 6,7,8 | 9,1,2 |              |          |          |          |
@@ -15,5 +16,6 @@ El juego se inicializa con una matriz de enteros de 9x9, representadas cada una 
    | 3,4,5 | 2,8,6 | 1,7,9 |              |          |          |          |
    -------------------------               --------------------------------
    
-Una vez elimnadas algunas celdas de manera aleatoria, con el botón "Comenzar", se habilitarán todas las celdas vacías. En caso de que una posición sea incorrecta, se remarca y se deshabilitan el resto de las celdas hasta la corrección de la misma.
+Una vez elimnadas algunas celdas de manera aleatoria, con el botón "Comenzar", se habilitarán todas las celdas vacías. En caso de que una posición sea incorrecta, se remarca y se
+deshabilitan el resto de las celdas hasta la corrección de la misma.
 El boton "Validar" decide si todos los elementos del juego cumplen con las reglas de la misma.
